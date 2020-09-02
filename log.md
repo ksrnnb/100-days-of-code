@@ -15,7 +15,7 @@ Infrastructure is difficult for me...
 
 **Today's Progress**:
 - learned AWS about VPC, subnet
-- read readable code (must to read later again)
+- read readable code (must read later again)
 - learned basic for Ruby (if, definition of method)
 - making web app using Laravel (made ER diagram, and migration file / next is seeder file)
 
