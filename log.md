@@ -22,3 +22,15 @@ Infrastructure is difficult for me...
 **Thoughts:**
 
 I felt that Ruby is similar to Python.
+
+### Day 3: Sep 2, 2020
+
+**Today's Progress**:
+- learned AWS about Routing talbe, internet gateway
+- started to learn Docker
+- learned basic for Ruby (unless, case)
+- making web app using Laravel (seeder file)
+
+**Thoughts:**
+
+I have to learn many things...
