@@ -34,3 +34,15 @@ I felt that Ruby is similar to Python.
 **Thoughts:**
 
 I have to learn many things...
+
+### Day 4: Sep 3, 2020
+
+**Today's Progress**:
+- learned AWS about EC2, how to install apache
+- learned Docker about Docker Image, how to make image
+- learned basic for Ruby (difference between puts/print/p, Minitest)
+- making web app using Laravel (made migration, seeder file, next is view & controller)
+
+**Thoughts:**
+
+Today's progress was great! I want to continue it.
