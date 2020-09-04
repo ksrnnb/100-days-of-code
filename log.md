@@ -46,3 +46,16 @@ I have to learn many things...
 **Thoughts:**
 
 Today's progress was great! I want to continue it.
+
+
+### Day 5: Sep 4, 2020
+
+**Today's Progress**:
+- learned AWS about Route53, DNS
+- learned Docker about Docker DSL (FROM/COPY/CMD/RUN/WORKDIR/USER/ENV)
+- learned basic for Ruby (Minitest, array)
+- making web app using Laravel (modify model)
+
+**Thoughts:**
+
+It is interesting for me to study AWS. I got a domain!
