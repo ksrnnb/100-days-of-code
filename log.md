@@ -59,3 +59,16 @@ Today's progress was great! I want to continue it.
 **Thoughts:**
 
 It is interesting for me to study AWS. I got a domain!
+
+
+### Day 6: Sep 5, 2020
+
+**Today's Progress**:
+- learned AWS about RDS
+- learned Docker about Docker Container
+- learned basic for Ruby (array, Range)
+- making web app using Laravel (made view & controller for user page)
+
+**Thoughts:**
+
+I confused git command today. I have to study about Git...
