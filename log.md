@@ -72,3 +72,16 @@ It is interesting for me to study AWS. I got a domain!
 **Thoughts:**
 
 I confused git command today. I have to study about Git...
+
+
+### Day 7: Sep 6, 2020
+
+**Today's Progress**:
+- learned AWS about S3
+- learned Docker about Docker Network
+- learned basic for Ruby (array, Range)
+- making web app using Laravel (modify user page)
+
+**Thoughts:**
+
+Docker is difficult...
