@@ -85,3 +85,15 @@ I confused git command today. I have to study about Git...
 **Thoughts:**
 
 Docker is difficult...
+
+### Day 8: Sep 7, 2020
+
+**Today's Progress**:
+- learned AWS about CloudFront
+- learned Docker about Docker Volume
+- learned basic for Ruby (array method)
+- making web app using Laravel (make top page)
+
+**Thoughts:**
+
+I have to laern about Eager to reduce SQL query.
