@@ -97,3 +97,16 @@ Docker is difficult...
 **Thoughts:**
 
 I have to laern about Eager to reduce SQL query.
+
+
+### Day 9: Sep 8, 2020
+
+**Today's Progress**:
+- learned AWS about ELB, CloudWatch
+- learned Docker how to use stopped container (docker commmit)
+- learned basic for Ruby (repeating process)
+- making web app using Laravel (modify eager loading code)
+
+**Thoughts:**
+
+I want to use AWS for my application early.
