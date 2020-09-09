@@ -110,3 +110,15 @@ I have to laern about Eager to reduce SQL query.
 **Thoughts:**
 
 I want to use AWS for my application early.
+
+
+### Day 10: Sep 9, 2020
+
+**Today's Progress**:
+- learned Docker image file
+- learned basic for Ruby (Hash)
+- making web app using Laravel (modify top page and user page)
+
+**Thoughts:**
+
+making app is so interesting!
