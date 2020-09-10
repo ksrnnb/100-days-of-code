@@ -122,3 +122,15 @@ I want to use AWS for my application early.
 **Thoughts:**
 
 making app is so interesting!
+
+
+### Day 11: Sep 10, 2020
+
+**Today's Progress**:
+- learned Docker about docker-compose
+- learned basic for Ruby (Hash, keyword args)
+- making web app using Laravel (making book page)
+
+**Thoughts:**
+
+it seems to be difficult for me to use docker-compose...
