@@ -134,3 +134,14 @@ making app is so interesting!
 **Thoughts:**
 
 it seems to be difficult for me to use docker-compose...
+
+
+### Day 12: Sep 11, 2020
+
+**Today's Progress**:
+- learned Docker about docker-compose
+- making web app using Laravel (authentication)
+
+**Thoughts:**
+
+I want to finish making app by next week.
