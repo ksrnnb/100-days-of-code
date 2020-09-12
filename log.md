@@ -145,3 +145,16 @@ it seems to be difficult for me to use docker-compose...
 **Thoughts:**
 
 I want to finish making app by next week.
+
+
+### Day 13: Sep 12, 2020
+
+**Today's Progress**:
+- learned Docker about docker-compose (how to use master-slave ssh connection)
+- learned Ruby about regular expression
+- trying to build web app on AWS
+- making web app using Laravel (made post page display)
+
+**Thoughts:**
+I have to learn many things to build web app on AWS.
+
