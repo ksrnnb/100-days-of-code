@@ -158,3 +158,16 @@ I want to finish making app by next week.
 **Thoughts:**
 I have to learn many things to build web app on AWS.
 
+
+### Day 14: Sep 13, 2020
+
+**Today's Progress**:
+- learned Docker about how to use mysql using data volume container
+- learned Ruby about regular expression method
+- trying to build web app on AWS (swap, installing MySQL)
+- making web app using Laravel (made post function and validation)
+
+**Thoughts:**
+swap is so interesting method.
+
+
