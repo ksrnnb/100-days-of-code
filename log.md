@@ -170,4 +170,12 @@ I have to learn many things to build web app on AWS.
 **Thoughts:**
 swap is so interesting method.
 
+### Day 15: Sep 14, 2020
 
+**Today's Progress**:
+- learned Docker about Swarm
+- learned how to build web app (Laravel) on AWS.
+- making web app (made comment and follow function)
+
+**Thoughts:**
+I can build web app using EC2 and RDS. next, I want to learn how to build development environment of docker.
