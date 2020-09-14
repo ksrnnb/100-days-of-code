@@ -178,4 +178,4 @@ swap is so interesting method.
 - making web app (made comment and follow function)
 
 **Thoughts:**
-I can build web app using EC2 and RDS. next, I want to learn how to build development environment of docker.
+I can build web app using EC2 and RDS now. next, I want to learn how to build development environment of docker.
