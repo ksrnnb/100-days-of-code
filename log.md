@@ -191,3 +191,14 @@ I can build web app using EC2 and RDS now. next, I want to learn how to build de
 
 **Thoughts:**
 I have to learn about nginx setting file.
+
+
+### Day 17: Sep 16, 2020
+
+**Today's Progress**:
+- learned Laravel-nginx-mysql development environment docker-compose
+- learned Ruby about class
+- making web app usin Laravel (making test function)
+
+**Thoughts:**
+I'll try to make docker environment myself tomorrow.
