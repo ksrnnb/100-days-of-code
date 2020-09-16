@@ -179,3 +179,15 @@ swap is so interesting method.
 
 **Thoughts:**
 I can build web app using EC2 and RDS now. next, I want to learn how to build development environment of docker.
+
+
+
+### Day 16: Sep 15, 2020
+
+**Today's Progress**:
+- learned php/nginx development environment docker-compose
+- learned Ruby about class
+- making web app usin Laravel (like, user search function)
+
+**Thoughts:**
+I have to learn about nginx setting file.
