@@ -202,3 +202,16 @@ I have to learn about nginx setting file.
 
 **Thoughts:**
 I'll try to make docker environment myself tomorrow.
+
+
+### Day 18: Sep 17, 2020
+
+**Today's Progress**:
+- making docker-compose file to prepare development environment
+- learned Ruby about class method, instance method
+- making web app using Laravel (made test function, edit book function)
+
+**Thoughts:**
+I couldn't build laravel environment using docker-compose today.
+
+I'll try again tomorrow.
