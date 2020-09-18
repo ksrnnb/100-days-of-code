@@ -215,3 +215,14 @@ I'll try to make docker environment myself tomorrow.
 I couldn't build laravel environment using docker-compose today.
 
 I'll try again tomorrow.
+
+
+### Day 19: Sep 18, 2020
+
+**Today's Progress**:
+- made docker development environment
+- learned Ruby about class private, protected
+- making web app using Laravel (add to bookshelf function)
+
+**Thoughts:**
+Many errors happened to use Dusk in docker...
