@@ -226,3 +226,14 @@ I'll try again tomorrow.
 
 **Thoughts:**
 Many errors happened to use Dusk in docker...
+
+
+### Day 20: Sep 19, 2020
+
+**Today's Progress**:
+- start to learn ECS, CircleCI
+- learned Ruby about module
+- making web app using Laravel (post/comment delete function)
+
+**Thoughts:**
+I felt CircleCI is very convinience method.
