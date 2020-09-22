@@ -255,7 +255,7 @@ Main funciton of web app is finished. I have to modify code and UI.
 **Today's Progress**:
 - making circleci.yml for laravel
 - learned Ruby about exception
-- making web app using Laravel (asynchronoush like and follow function)
+- making web app using Laravel (asynchronous like and follow function)
 
 **Thoughts:**
 making circleci.yml is difficult...
