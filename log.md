@@ -259,3 +259,14 @@ Main funciton of web app is finished. I have to modify code and UI.
 
 **Thoughts:**
 making circleci.yml is difficult...
+
+
+### Day 23: Sep 22, 2020
+
+**Today's Progress**:
+- made circleci.yml for laravel (successed)
+- learned Ruby about yield, Proc
+- making web app using Laravel (book search function using React)
+
+**Thoughts:**
+I'm pleased my app passed circleci check.
