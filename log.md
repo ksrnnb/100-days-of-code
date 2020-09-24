@@ -270,3 +270,14 @@ making circleci.yml is difficult...
 
 **Thoughts:**
 I'm pleased my app passed circleci check.
+
+
+### Day 24: Sep 23, 2020
+
+**Today's Progress**:
+- made circleci.yml to deploy automatically to EC2
+- learned Ruby about Proc, lambda
+- making web app using Laravel (trying to upload image to S3)
+
+**Thoughts:**
+I cannot get save image to S3 (I have no idea why extension of saved file is .xml)
