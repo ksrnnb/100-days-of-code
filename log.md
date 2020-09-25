@@ -281,3 +281,13 @@ I'm pleased my app passed circleci check.
 
 **Thoughts:**
 I cannot get save image to S3 (I have no idea why extension of saved file is .xml)
+
+
+### Day 25: Sep 24, 2020
+
+**Today's Progress**:
+- learned about phpcs and start to use it in my app
+- making web app using Laravel (upload jpeg/png image to S3)
+
+**Thoughts:**
+I couldn't use svg on s3, so I use only jpeg/png.
