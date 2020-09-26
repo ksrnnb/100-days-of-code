@@ -291,3 +291,14 @@ I cannot get save image to S3 (I have no idea why extension of saved file is .xm
 
 **Thoughts:**
 I couldn't use svg on s3, so I use only jpeg/png.
+
+
+### Day 26: Sep 26, 2020
+
+**Today's Progress**:
+- learning how to use prittier and eslint
+- start to make dockerfile to use ECS
+- making web app using Laravel (modify ui in book search page)
+
+**Thoughts:**
+I forgot learning log one day. I want to change ui from blade to react.
