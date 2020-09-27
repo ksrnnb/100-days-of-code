@@ -302,3 +302,17 @@ I couldn't use svg on s3, so I use only jpeg/png.
 
 **Thoughts:**
 I forgot learning log one day. I want to change ui from blade to react.
+
+
+
+### Day 27: Sep 27, 2020
+
+**Today's Progress**:
+- learning how to use prittier and eslint
+- making dockerfile for ESC
+- start to make rails environment using docker
+- making web app using Laravel (start to use react-router-dom)
+
+**Thoughts:**
+I have to change source code. it seems to be difficult...
+
