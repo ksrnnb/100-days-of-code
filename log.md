@@ -316,3 +316,25 @@ I forgot learning log one day. I want to change ui from blade to react.
 **Thoughts:**
 I have to change source code. it seems to be difficult...
 
+
+### Day 28: Sep 28, 2020
+
+**Today's Progress**:
+- install prettier and eslint to my app
+- making dockerfile for ESC
+- made rails environment
+- learning about sanctum
+
+**Thoughts:**
+I think SPA is difficult.  but sanctum makes it easy to is make SPA.
+
+
+### Day 29: Sep 29, 2020
+
+**Today's Progress**:
+- making dockerfile nginx, php-fpm
+- start rails tutorial
+- making web app using Laravel (install react-router-dom, sanctom)
+
+**Thoughts:**
+I can login but cannot logout now...
