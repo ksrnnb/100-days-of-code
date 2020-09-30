@@ -338,3 +338,14 @@ I think SPA is difficult.  but sanctum makes it easy to is make SPA.
 
 **Thoughts:**
 I can login but cannot logout now...
+
+
+### Day 30: Sep 30, 2020
+
+**Today's Progress**:
+- trying to use ECS (but error happened in health check)
+- learning rails basic
+- making web app using Laravel (edit user profile page in React)
+
+**Thoughts:**
+I have to learn about guard in Laravel.
