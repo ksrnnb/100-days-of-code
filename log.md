@@ -349,3 +349,14 @@ I can login but cannot logout now...
 
 **Thoughts:**
 I have to learn about guard in Laravel.
+
+
+### Day 31: Oct 1, 2020
+
+**Today's Progress**:
+- trying to use ECS (I couldn't resolve why docker became down soon.)
+- learning rails basic (how to make controller)
+- making web app using Laravel (making feed page in React)
+
+**Thoughts:**
+I couldn't finish ECS today also, I want to finish it tomorrow.
