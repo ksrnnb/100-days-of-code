@@ -360,3 +360,14 @@ I have to learn about guard in Laravel.
 
 **Thoughts:**
 I couldn't finish ECS today also, I want to finish it tomorrow.
+
+
+### Day 32: Oct 2, 2020
+
+**Today's Progress**:
+- trying to use ECS using my app
+- learning rails basic (view)
+- making web app using Laravel (making post page in React)
+
+**Thoughts:**
+My app can use in ECS now. next step is auto deploy to ECS
