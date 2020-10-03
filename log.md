@@ -371,3 +371,15 @@ I couldn't finish ECS today also, I want to finish it tomorrow.
 
 **Thoughts:**
 My app can use in ECS now. next step is auto deploy to ECS
+
+
+### Day 33: Oct 3, 2020
+
+**Today's Progress**:
+- learned how to deploy to ECS using circleci
+- learning rails basic
+- learning Laravel about service container
+- making web app using Laravel (making comment page)
+
+**Thoughts:**
+DI and DI container is difficult...
