@@ -383,3 +383,13 @@ My app can use in ECS now. next step is auto deploy to ECS
 
 **Thoughts:**
 DI and DI container is difficult...
+
+
+### Day 34: Oct 4, 2020
+
+**Today's Progress**:
+- automatically deploy to ESC using circleci in my app
+- making web app using Laravel (making book add page)
+
+**Thoughts:**
+I want to understand the difference between unit test, feature test, browser test.
