@@ -393,3 +393,14 @@ DI and DI container is difficult...
 
 **Thoughts:**
 I want to understand the difference between unit test, feature test, browser test.
+
+
+### Day 35: Oct 5, 2020
+
+**Today's Progress**:
+- learning about canvas and DI container
+- making web app using Laravel (making follow function)
+
+**Thoughts:**
+I want to understand the difference between unit test, feature test, browser test.
+
