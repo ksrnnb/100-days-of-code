@@ -402,5 +402,4 @@ I want to understand the difference between unit test, feature test, browser tes
 - making web app using Laravel (making follow function)
 
 **Thoughts:**
-I want to understand the difference between unit test, feature test, browser test.
-
+image resizing and post is difficult...
