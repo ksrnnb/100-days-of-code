@@ -403,3 +403,13 @@ I want to understand the difference between unit test, feature test, browser tes
 
 **Thoughts:**
 image resizing and post is difficult...
+
+
+### Day 36: Oct 6, 2020
+
+**Today's Progress**:
+- learning about canvas how to draw 2 image
+- making web app using Laravel (making edit book function)
+
+**Thoughts:**
+i want to know how to trim image by user.
