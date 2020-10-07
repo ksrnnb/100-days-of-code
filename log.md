@@ -413,3 +413,15 @@ image resizing and post is difficult...
 
 **Thoughts:**
 i want to know how to trim image by user.
+
+
+### Day 37: Oct 7, 2020
+
+**Today's Progress**:
+- learning about canvas how to triming
+- learning about service container (Laravel)
+- making web app using Laravel (making delete book function)
+
+**Thoughts:**
+I'm having a hard time understanding about service container.
+
