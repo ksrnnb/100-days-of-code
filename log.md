@@ -418,10 +418,21 @@ i want to know how to trim image by user.
 ### Day 37: Oct 7, 2020
 
 **Today's Progress**:
-- learning about canvas how to triming
+- learning about canvas how to trimming
 - learning about service container (Laravel)
 - making web app using Laravel (making delete book function)
 
 **Thoughts:**
 I'm having a hard time understanding about service container.
 
+
+
+### Day 38: Oct 8, 2020
+
+**Today's Progress**:
+- post to qiita about trimming using canvas (https://qiita.com/ksrnnb/items/2e7166fbc201cd881938)
+- learning about service container ($app) in Laravel
+- making web app using Laravel (making edit and delete user function)
+
+**Thoughts:**
+I want to post more article to qiita to share information.
