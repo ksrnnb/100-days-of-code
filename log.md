@@ -436,3 +436,15 @@ I'm having a hard time understanding about service container.
 
 **Thoughts:**
 I want to post more article to qiita to share information.
+
+
+### Day 39: Oct 9, 2020
+
+**Today's Progress**:
+- start to learn Terraform
+- learning about index.php in Laravel
+- making web app using Laravel (making user post image function using react-image-crop)
+
+**Thoughts:**
+react-image-crop is very convenience.
+
