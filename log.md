@@ -448,3 +448,14 @@ I want to post more article to qiita to share information.
 **Thoughts:**
 react-image-crop is very convenience.
 
+
+### Day 40: Oct 10, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to run EC2 and use IAM)
+- learning about index.php in Laravel
+- posted to qiita about trimming using react-image-crop (https://qiita.com/ksrnnb/items/81d34faf4abc47ea4182)
+- making web app using Laravel (making upload Base64 image to S3 and validation)
+
+**Thoughts:**
+learning new technology is very interesting!
