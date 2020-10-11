@@ -459,3 +459,15 @@ react-image-crop is very convenience.
 
 **Thoughts:**
 learning new technology is very interesting!
+
+
+### Day 41: Oct 11, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to use VPC, subnet)
+- learning about index.php in Laravel
+- learned about React Hooks
+- making web app using Laravel (making new user profile page transition)
+
+**Thoughts:**
+I want to try to use React Hooks next component.
