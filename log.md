@@ -471,3 +471,14 @@ learning new technology is very interesting!
 
 **Thoughts:**
 I want to try to use React Hooks next component.
+
+
+### Day 42: Oct 12, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to use ALB)
+- learning about index.php(autoload) in Laravel
+- making web app using Laravel (refactor using Hooks and modify controller)
+
+**Thoughts:**
+a framework is very large so it is difficult to understand.
