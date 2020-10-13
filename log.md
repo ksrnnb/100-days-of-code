@@ -482,3 +482,14 @@ I want to try to use React Hooks next component.
 
 **Thoughts:**
 a framework is very large so it is difficult to understand.
+
+
+### Day 43: Oct 13, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to use SSL)
+- posted Qiita about Laravel autoload (https://qiita.com/ksrnnb/items/b6f645e70677042755d8)
+- making web app using Laravel (follower page and book page)
+
+**Thoughts:**
+I cannot login using dusk so I have to fix it.
