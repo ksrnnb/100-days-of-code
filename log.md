@@ -493,3 +493,14 @@ a framework is very large so it is difficult to understand.
 
 **Thoughts:**
 I cannot login using dusk so I have to fix it.
+
+
+### Day 44: Oct 14, 2020
+
+**Today's Progress**:
+- learning about Terraform (about HTTPS)
+- tried to understand dusk error (but I couldn't solve it)
+- making web app using Laravel (user create page)
+
+**Thoughts:**
+I have to understand auth and csrf to fix dusk error.
