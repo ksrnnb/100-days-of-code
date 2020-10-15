@@ -504,3 +504,14 @@ I cannot login using dusk so I have to fix it.
 
 **Thoughts:**
 I have to understand auth and csrf to fix dusk error.
+
+
+### Day 45: Oct 15, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to use ECS)
+- learning about event in Laravel
+- making web app using Laravel (React PropTypes type check and refactoring)
+
+**Thoughts:**
+I want to learn about que in Laravel.
