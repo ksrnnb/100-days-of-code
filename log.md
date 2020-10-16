@@ -515,3 +515,14 @@ I have to understand auth and csrf to fix dusk error.
 
 **Thoughts:**
 I want to learn about que in Laravel.
+
+
+### Day 46: Oct 16, 2020
+
+**Today's Progress**:
+- learning about Terraform (How to use RDS)
+- tried to solve dusk error...
+- making web app using Laravel (fix page transition bug)
+
+**Thoughts:**
+I used laravel event for the first time. It is convenient.
