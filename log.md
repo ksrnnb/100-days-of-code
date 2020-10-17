@@ -526,3 +526,14 @@ I want to learn about que in Laravel.
 
 **Thoughts:**
 I used laravel event for the first time. It is convenient.
+
+
+### Day 47: Oct 17, 2020
+
+**Today's Progress**:
+- start to make terrafrom file for my app
+- tried to solve dusk error... (I found it is due to wrong .env file)
+- making web app using Laravel (make notification page)
+
+**Thoughts:**
+I want to solve authenticate error in dusk...
