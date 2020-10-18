@@ -537,3 +537,15 @@ I used laravel event for the first time. It is convenient.
 
 **Thoughts:**
 I want to solve authenticate error in dusk...
+
+
+### Day 48: Oct 18, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (made sg, alb)
+- resolved my dusk login error
+- making web app using Laravel (making test)
+
+**Thoughts:**
+I resolved login error but I don't understand about session.
+I want to learn about it and share information.
