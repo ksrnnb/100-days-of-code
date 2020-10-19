@@ -549,3 +549,14 @@ I want to solve authenticate error in dusk...
 **Thoughts:**
 I resolved login error but I don't understand about session.
 I want to learn about it and share information.
+
+
+### Day 49: Oct 19, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (made NAT, trying to make ECS service)
+- looking into sanctum middleware and authenticate
+- making web app using Laravel (making test, fix some bugs)
+
+**Thoughts:**
+I knew where middleware handle method is written.
