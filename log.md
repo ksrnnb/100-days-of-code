@@ -560,3 +560,13 @@ I want to learn about it and share information.
 
 **Thoughts:**
 I knew where middleware handle method is written.
+
+
+### Day 50: Oct 20, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (made ECS task)
+- making web app using Laravel (fix validation)
+
+**Thoughts:**
+It is difficult to understand where session domain is used.
