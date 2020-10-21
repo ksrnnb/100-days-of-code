@@ -570,3 +570,13 @@ I knew where middleware handle method is written.
 
 **Thoughts:**
 It is difficult to understand where session domain is used.
+
+
+### Day 51: Oct 21, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (trying to make ECS service)
+- making web app using Laravel (fix UI)
+
+**Thoughts:**
+I couldn't make ECS service due to alb error. I want to fix it tomorrow.
