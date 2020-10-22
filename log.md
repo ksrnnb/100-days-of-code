@@ -580,3 +580,13 @@ It is difficult to understand where session domain is used.
 
 **Thoughts:**
 I couldn't make ECS service due to alb error. I want to fix it tomorrow.
+
+
+### Day 52: Oct 22, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (made ESC service and trying to start EC2 on ECS)
+- making web app using Laravel (fix Card UI)
+
+**Thoughts:**
+I fixed alb error. but I couldn't start EC2 on ECS today...
