@@ -590,3 +590,23 @@ I couldn't make ECS service due to alb error. I want to fix it tomorrow.
 
 **Thoughts:**
 I fixed alb error. but I couldn't start EC2 on ECS today...
+
+
+### Day 53: Oct 23, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (tring to start ECS using Fargate)
+- making web app using Laravel (fix profile page UI)
+
+**Thoughts:**
+I have to understand ECS to start ECS using Terraform.
+
+
+### Day 54: Oct 24, 2020
+
+**Today's Progress**:
+- creating terrafrom file for my app (RDS, and S3)
+- making web app using Laravel (fix book page UI)
+
+**Thoughts:**
+I understand I have to make autoscaling resource to start ECS (EC2).
