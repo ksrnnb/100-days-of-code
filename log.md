@@ -610,3 +610,14 @@ I have to understand ECS to start ECS using Terraform.
 
 **Thoughts:**
 I understand I have to make autoscaling resource to start ECS (EC2).
+
+
+### Day 55: Oct 25, 2020
+
+**Today's Progress**:
+- created terrafrom file for my app (ECS service)
+- making web app using Laravel (fix login/logout page UI)
+
+**Thoughts:**
+I created ECS service using Terraform. but another problem that relates Laravel happened.
+I want to fix it tommorow.
