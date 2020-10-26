@@ -621,3 +621,14 @@ I understand I have to make autoscaling resource to start ECS (EC2).
 **Thoughts:**
 I created ECS service using Terraform. but another problem that relates Laravel happened.
 I want to fix it tommorow.
+
+
+### Day 56: Oct 26, 2020
+
+**Today's Progress**:
+- tring to fix app error (https error was fixed, next is csrf mismatch error...)
+- learned how to access EC2 in private subnet by ssh connection
+- making web app using Laravel (refactoring js file)
+
+**Thoughts:**
+I want to deploy my app soon.
