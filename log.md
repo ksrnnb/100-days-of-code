@@ -632,3 +632,13 @@ I want to fix it tommorow.
 
 **Thoughts:**
 I want to deploy my app soon.
+
+
+### Day 57: Oct 27, 2020
+
+**Today's Progress**:
+- fixed my app csrf mismatch error (token was different due to without sticky session)
+- making web app using Laravel (brush up top page)
+
+**Thoughts:**
+I finished deploy app, so I want to deliver continuously it.
