@@ -642,3 +642,23 @@ I want to deploy my app soon.
 
 **Thoughts:**
 I finished deploy app, so I want to deliver continuously it.
+
+
+### Day 58: Oct 28, 2020
+
+**Today's Progress**:
+- trying to make slide background image
+- making web app using Laravel (fix layout)
+
+**Thoughts:**
+I have to understand how css work.
+
+
+### Day 59: Oct 29, 2020
+
+**Today's Progress**:
+- make slide and apply to my app using bootstrap carousel
+- making web app using Laravel (fix image trimming)
+
+**Thoughts:**
+I have some problem for my app so i want to fix it asap.
