@@ -662,3 +662,14 @@ I have to understand how css work.
 
 **Thoughts:**
 I have some problem for my app so i want to fix it asap.
+
+
+### Day 60: Oct 30, 2020
+
+**Today's Progress**:
+- learned gate/policy of laravel and applied to my app
+- making web app using Laravel (making initial data)
+
+**Thoughts:**
+I have many things that i don't know about laravel.
+I want to learn them.
