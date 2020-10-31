@@ -673,3 +673,13 @@ I have some problem for my app so i want to fix it asap.
 **Thoughts:**
 I have many things that i don't know about laravel.
 I want to learn them.
+
+
+### Day 61: Oct 31, 2020
+
+**Today's Progress**:
+- start to learn about TypeScript
+- making web app using Laravel (making test)
+
+**Thoughts:**
+I want to use TypeScript for next app.
