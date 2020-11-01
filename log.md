@@ -683,3 +683,12 @@ I want to learn them.
 
 **Thoughts:**
 I want to use TypeScript for next app.
+
+
+### Day 62: Nov 1, 2020
+
+- reading TypeScript deep dive
+- making web app using Laravel (making test, fix some issue)
+
+**Thoughts:**
+I want to use email to my app if i can. i'll look into it.
