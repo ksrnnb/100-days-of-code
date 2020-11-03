@@ -692,3 +692,19 @@ I want to use TypeScript for next app.
 
 **Thoughts:**
 I want to use email to my app if i can. i'll look into it.
+
+
+### Day 63: Nov 2, 2020
+- learning how to use email in laravel
+- making web app using Laravel (fix some issue)
+
+**Thoughts:**
+It is difficult to use email in laravel. i have to learn many things...
+
+
+### Day 64: Nov 3, 2020
+- tring to use TypeScript in my app but it was too late...
+- making web app using Laravel (made notification budge)
+
+**Thoughts:**
+I want to use TypeScript but it takes long time. I'll do it in a few days.
