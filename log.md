@@ -708,3 +708,10 @@ It is difficult to use email in laravel. i have to learn many things...
 
 **Thoughts:**
 I want to use TypeScript but it takes long time. I'll do it in a few days.
+
+
+### Day 65: Nov 4, 2020
+- making web app using Laravel (made form request to validate for create book and post)
+
+**Thoughts:**
+Today, I recieved AWS invoce, and it was expensive due to NAT. I'll change it in this weekend.
