@@ -715,3 +715,13 @@ I want to use TypeScript but it takes long time. I'll do it in a few days.
 
 **Thoughts:**
 Today, I recieved AWS invoce, and it was expensive due to NAT. I'll change it in this weekend.
+
+
+### Day 66: Nov 5, 2020
+- started to learn golang (Hello, world)
+- making web app using Laravel (change JavaScript to TypeScript for my app)
+
+**Thoughts:**
+I finished change js to ts. but now there are many "any".
+So, I want to fix them.
+
