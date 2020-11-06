@@ -725,3 +725,10 @@ Today, I recieved AWS invoce, and it was expensive due to NAT. I'll change it in
 I finished change js to ts. but now there are many "any".
 So, I want to fix them.
 
+
+### Day 67: Nov 6, 2020
+- learned about TypeScript and Go (mainly about type)
+- making web app using Laravel (display post time)
+
+**Thoughts:**
+I want to change NAT gateway to NAT instance to save money.
