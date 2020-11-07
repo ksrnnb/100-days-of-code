@@ -732,3 +732,12 @@ So, I want to fix them.
 
 **Thoughts:**
 I want to change NAT gateway to NAT instance to save money.
+
+
+### Day 68: Nov 7, 2020
+- learned about TypeScript (reading deep dive)
+- learned about Go (flow, function ...)
+- started to use NAT instance instead of NAT Gateway
+
+**Thoughts:**
+I want to learn about infrastructure in detail to understand network.
