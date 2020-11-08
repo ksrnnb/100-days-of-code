@@ -741,3 +741,12 @@ I want to change NAT gateway to NAT instance to save money.
 
 **Thoughts:**
 I want to learn about infrastructure in detail to understand network.
+
+
+### Day 69: Nov 8, 2020
+- learning about TypeScript (reading deep dive about type system)
+- learning about Go (goroutine, channel)
+- making web app (fixed some bugs)
+
+**Thoughts:**
+goroutine is difficult, so i have to understand it.
