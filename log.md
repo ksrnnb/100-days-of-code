@@ -750,3 +750,11 @@ I want to learn about infrastructure in detail to understand network.
 
 **Thoughts:**
 goroutine is difficult, so i have to understand it.
+
+
+### Day 70: Nov 9, 2020
+- learning about Go (goroutine, select, timeouts, ...)
+- making web app (fixed some bugs)
+
+**Thoughts:**
+I understand goroutine a little. parallel processing is convenient.
