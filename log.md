@@ -758,3 +758,11 @@ goroutine is difficult, so i have to understand it.
 
 **Thoughts:**
 I understand goroutine a little. parallel processing is convenient.
+
+
+### Day 71: Nov 10, 2020
+- learning about Go (about slice)
+- making web app (fixed notification bug)
+
+**Thoughts:**
+I confused the difference between slice capacity and size.
