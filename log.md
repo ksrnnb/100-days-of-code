@@ -766,3 +766,10 @@ I understand goroutine a little. parallel processing is convenient.
 
 **Thoughts:**
 I confused the difference between slice capacity and size.
+
+
+### Day 72: Nov 11, 2020
+- learning about Go (about map, mathod, interface)
+
+**Thoughts:**
+interface is difficult compared with php...
