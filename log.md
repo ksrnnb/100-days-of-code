@@ -773,3 +773,10 @@ I confused the difference between slice capacity and size.
 
 **Thoughts:**
 interface is difficult compared with php...
+
+
+### Day 73: Nov 12, 2020
+- learning about Go interface
+
+**Thoughts:**
+I understand how to write interface a little. it is very different compared with other langage.
