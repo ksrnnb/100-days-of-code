@@ -782,7 +782,7 @@ interface is difficult compared with php...
 I understand how to write interface a little. it is very different compared with other langage.
 
 
-### Day 73: Nov 13, 2020
+### Day 74: Nov 13, 2020
 - learning about Go type assertion, type switch
 - learning about mock and stub
 - making web app (showing user post list)
