@@ -780,3 +780,12 @@ interface is difficult compared with php...
 
 **Thoughts:**
 I understand how to write interface a little. it is very different compared with other langage.
+
+
+### Day 73: Nov 13, 2020
+- learning about Go type assertion, type switch
+- learning about mock and stub
+- making web app (showing user post list)
+
+**Thoughts:**
+mock and stub is a little difficult for me. when should i use it?
